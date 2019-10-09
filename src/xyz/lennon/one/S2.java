@@ -1,6 +1,7 @@
 package xyz.lennon.one;
 
-import xyz.lennon.Main;
+
+import xyz.lennon.ListNode;
 
 public class S2 {
 
@@ -83,9 +84,3 @@ public class S2 {
 }
 
 
-
-class ListNode {
-     int val;
-     ListNode next;
-     ListNode(int x) { val = x; }
-}
