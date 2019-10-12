@@ -1,7 +1,5 @@
 package xyz.lennon.one;
 
-import xyz.lennon.Main;
-
 import java.util.HashMap;
 import java.util.Map;
 
