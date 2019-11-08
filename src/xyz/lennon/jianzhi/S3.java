@@ -3,7 +3,6 @@ package xyz.lennon.jianzhi;
 import xyz.lennon.ListNode;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class S3 {
     public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
@@ -18,5 +17,8 @@ public class S3 {
             res.add(list.get(i));
         }
         return res;
+    }
+    public static void main(String[] args) {
+        System.out.println("fdss");
     }
 }

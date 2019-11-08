@@ -1,9 +1,7 @@
 package xyz.lennon.two;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
-import java.util.Stack;
 
 public class S22 {
 

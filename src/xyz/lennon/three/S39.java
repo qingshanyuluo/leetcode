@@ -1,6 +1,5 @@
 package xyz.lennon.three;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class S39 {
