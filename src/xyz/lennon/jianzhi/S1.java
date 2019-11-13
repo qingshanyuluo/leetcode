@@ -25,4 +25,3 @@ public class S1 {
         return false;
     }
 }
-
