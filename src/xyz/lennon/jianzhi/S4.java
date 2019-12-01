@@ -1,8 +1,5 @@
 package xyz.lennon.jianzhi;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * S4 前序遍历{1,2,4,7,3,5,6,8}和中序遍历序列{4,7,2,1,5,3,8,6}
  */

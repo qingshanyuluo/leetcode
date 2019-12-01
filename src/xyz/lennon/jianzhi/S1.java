@@ -24,4 +24,21 @@ public class S1 {
         }
         return false;
     }
+
+    public boolean Find2(int target, int [][] array) {
+        int x = 0;
+        int y = array[0].length - 1;
+        while (x < array.length && y >= 0) {
+            if (target < array[x][y]) {
+                y--; continue;
+            }
+            if (target > array[x][y]) {
+                x++; continue;
+            }
+            if (target == array[x][y]) {
+                return true;
+            }
+        }
+        return false;
+    }
 }
